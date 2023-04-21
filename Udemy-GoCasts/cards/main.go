@@ -13,4 +13,12 @@ func main() {
 
 	hand.saveToFile("cards_on_hand")
 
+	cards = newDeckFromFile("cards_on_hand")
+
+	cards.print()
+
+	cards.shuffle()
+
+	cards.print()
+
 }
