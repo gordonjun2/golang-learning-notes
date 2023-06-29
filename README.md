@@ -6,8 +6,10 @@ Contains notes and examples from my Golang programming learning journey
 
 # Useful Websites
 - [Tips to Create a Proper Go Project Layout](https://www.developer.com/languages/go-project-layout/)
+- [Golang project structuring — Ben Johnson way](https://medium.com/sellerapp/golang-project-structuring-ben-johnson-way-2a11035f94bc)
 - [Go Style Best Practices](https://google.github.io/styleguide/go/best-practices.html)
 - [Checkers in Go](https://github.com/batkinson/checkers-go)
+- [Excel2JSON in Go](https://github.com/gordonjun2/excel2json-go)
 
 # Tips
 - When using ```go test``` and the *go: cannot find main module* message is shown, this means that the current directory is not recognized as a Go module. To create one, run
