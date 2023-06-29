@@ -6,6 +6,7 @@ Contains notes and examples from my Golang programming learning journey
 
 # Useful Websites
 - [Tips to Create a Proper Go Project Layout](https://www.developer.com/languages/go-project-layout/)
+- [Go Style Best Practices](https://google.github.io/styleguide/go/best-practices.html)
 - [Checkers in Go](https://github.com/batkinson/checkers-go)
 
 # Tips
