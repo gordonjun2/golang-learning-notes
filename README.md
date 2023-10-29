@@ -14,6 +14,7 @@ Contains notes and examples from my Golang programming learning journey
 - [Publishing a Go module](https://go.dev/doc/modules/publishing)
 - [Checkers in Go](https://github.com/batkinson/checkers-go)
 - [Excel2JSON in Go](https://github.com/gordonjun2/excel2json-go)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
 # Steps to create a Golang project
 - Create project directory with the proper project layout (refer to [here](https://www.developer.com/languages/go-project-layout/) or [here](https://medium.com/sellerapp/golang-project-structuring-ben-johnson-way-2a11035f94bc))
